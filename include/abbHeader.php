@@ -28,7 +28,7 @@
             <?php
                 if (isset($_SESSION['memberID'])) {
             ?>
-                <li><a href="../myinfo/myInfoModifyPass.php">마이페이지</a></li>
+                <li><a href="../myInfo/myInfoModifyPass.php">마이페이지</a></li>
                 <li><a href="../login/logout.php">로그아웃</a></li>
             <?php
             } else {
